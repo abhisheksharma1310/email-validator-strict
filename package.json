@@ -1,6 +1,6 @@
 {
   "name": "email-validator-strict",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A strict and reliable email validator using regex",
   "main": "index.js",
   "repository": {
