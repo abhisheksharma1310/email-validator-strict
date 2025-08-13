@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "A strict and reliable email validator using regex",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhisheksharma1310/email-validator-strict.git"
+  },
+  "homepage": "https://github.com/abhisheksharma1310/email-validator-strict#readme",
+  "bugs": {
+    "url": "https://github.com/abhisheksharma1310/email-validator-strict/issues"
+  },
   "scripts": {
     "test": "jest"
   },
