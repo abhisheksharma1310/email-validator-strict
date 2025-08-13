@@ -1,0 +1,26 @@
+{
+  "name": "email-validator-strict",
+  "version": "1.0.0",
+  "description": "A strict and reliable email validator using regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "email",
+    "validator",
+    "regex",
+    "validation",
+    "internationalized",
+    "unicode",
+    "strict"
+  ],
+  "author": "Abhishek Sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "punycode": "^2.3.1"
+  }
+}
